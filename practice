@@ -18,6 +18,7 @@ Pune previously spelled in English as Poona is a city in Maharashtra state in th
                 <input type="text" id="username" />
             </div>
             <div>
+Pune previously spelled in English as Poona is a city in Maharashtra state in the Deccan plateau in Western India. It is the administrative headquarters of 
                 <label for="email">Email</label>
                 <input type="text" id="email" />
             </div>
